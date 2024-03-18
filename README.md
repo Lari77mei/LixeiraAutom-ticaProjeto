@@ -1,1 +1,1 @@
-# LixeiraAutom-ticaProjeto
+# LixeiraAutomaticaProjeto
